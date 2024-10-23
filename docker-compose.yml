@@ -1,7 +1,7 @@
 version: "2.4"
 services:
   apache:
-    image: 'penjack/bees'
+    image: 'penjack/HTML-Assignment-5'
     ports:
     - "80:80"
     volumes:
